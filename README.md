@@ -26,6 +26,7 @@
 - **Key Features:** - Designed **RESTful APIs** for course management and e-commerce logic.
     - Implemented **JWT-based authentication** for users.
     - Built an interactive **quiz** with automated grading.
+    - Implemented a discussion feature allowing users to create topics and interact through comments
 
 #### 🎓 [Predict Student Graduation Outcome](https://github.com/masterdev195/predict_student_result.git)
 *Oct 2025 – Nov 2025*

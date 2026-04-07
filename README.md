@@ -4,7 +4,6 @@
 - 👨‍💻 I am a **3rd-year IT Student** in the **Talented Program** at Posts and Telecommunications Institute of Technology (PTIT).
 - 🎯 My primary focus is **Backend Development**, with a strong interest in **Machine Learning**.
 - 🏆 Background in Mathematics (Ex-Chuyên Toán).
-- 🎓 Current GPA: **3.24/4.0**
 
 ---
 
